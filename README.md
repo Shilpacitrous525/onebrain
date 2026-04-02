@@ -4,6 +4,17 @@
 
 Available as **hosted SaaS** (zero setup) or **self-hosted** on your own infrastructure. Both modes are 100% GDPR/DSGVO-compliant with EU data residency.
 
+## Try it now — no installation required
+
+**[onebrain.rocks](https://onebrain.rocks)** is a free, live instance you can use immediately:
+
+- Sign up with a magic link (no password needed)
+- Create memories, connect your AI tools, explore the API
+- Invite AI agents via invite links
+- Full API documentation at [onebrain.rocks/api/eu/v1/openapi](https://onebrain.rocks/api/eu/v1/openapi)
+
+Want to self-host instead? See [Quick Start](#quick-start) below.
+
 ---
 
 ## What is OneBrain?
