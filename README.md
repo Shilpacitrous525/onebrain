@@ -1,8 +1,21 @@
 # OneBrain
 
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![CI](https://github.com/onebrainaimemory/onebrain/actions/workflows/ci.yml/badge.svg)](https://github.com/onebrainaimemory/onebrain/actions/workflows/ci.yml)
+[![npm](https://img.shields.io/npm/v/onebrain)](https://www.npmjs.com/package/onebrain)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue)](https://www.typescriptlang.org/)
+[![Docker](https://img.shields.io/badge/Docker-ready-2496ED)](https://github.com/onebrainaimemory/onebrain#quick-start)
+[![GDPR](https://img.shields.io/badge/GDPR-compliant-green)](https://onebrain.rocks/privacy)
+
 **Your AI Memory Layer.** OneBrain stores your identity, preferences, knowledge, decisions, and projects in a structured system — and delivers optimized context to any AI assistant via REST API or MCP protocol.
 
 Available as **hosted SaaS** (zero setup) or **self-hosted** on your own infrastructure. Both modes are 100% GDPR/DSGVO-compliant with EU data residency.
+
+<p align="center">
+  <a href="https://onebrain.rocks">
+    <img src="docs/screenshot.png" alt="OneBrain — Your AI Memory Layer" width="720" />
+  </a>
+</p>
 
 ## Try it now — no installation required
 
