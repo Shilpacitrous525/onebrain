@@ -804,7 +804,7 @@
     "stat_agents": "Agenten",
     "stat_brains": "Brains",
     "stat_memories": "Memories",
-    "beta_banner": "BETA — Dieses Projekt befindet sich in der Beta-Phase. Nutzung auf eigene Gefahr.",
+    "beta_banner": "BETA/Demo — Dieses Projekt befindet sich in der Beta-Phase. Diese Seite dient nur zur Demonstration der Features und Funktionalität. Nutzung auf eigene Gefahr.",
     "disclaimer": "Diese Webseite wurde ausschließlich erstellt, um das Projekt OneBrain zu testen und zu demonstrieren. Es gibt keine kostenpflichtigen Pläne. Wir übernehmen keine Haftung für Datenverluste, Verfügbarkeit oder Schäden, die aus der Nutzung dieses Dienstes entstehen."
   },
   "consent": {

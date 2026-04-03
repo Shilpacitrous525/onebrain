@@ -804,7 +804,7 @@
     "stat_agents": "Agents",
     "stat_brains": "Brains",
     "stat_memories": "Memories",
-    "beta_banner": "BETA — This project is in beta. Use at your own risk.",
+    "beta_banner": "BETA/Demo — This project is in beta. This page serves only to demonstrate features and functionality. Use at your own risk.",
     "disclaimer": "This website was created solely to demonstrate and test the OneBrain project. There are no paid plans. We assume no liability for data loss, availability, or any damages arising from the use of this service."
   },
   "consent": {
