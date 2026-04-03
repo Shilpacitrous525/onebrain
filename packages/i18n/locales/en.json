@@ -751,7 +751,7 @@
     "encryption_partial": "Encrypted {count} memories, {failed} failed."
   },
   "landing": {
-    "get_started": "Start Free",
+    "get_started": "Try it now",
     "learn_more": "Learn More",
     "hero_pre": "Your",
     "hero_highlight": "AI Memory",
